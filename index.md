@@ -1,4 +1,4 @@
-* [UIKit](#uikit)
+* [UIKit](#thiet_lap_live_rendering)
 	* [UIView](#uiview)
 
 Nguyễn Công Phượng không có tên trong danh sách đăng ký trận Sint-Truidense đối đầu Kortrijk hôm 6/10, tức là ngay trước khi anh về Việt Nam để đá Vòng loại World Cup 2022.
@@ -10,7 +10,7 @@ Công Phượng sẽ vắng mặt trận thứ 4 liên tiếp tại giải VĐQG
 
 
 
-# UIKit
+# Thiết lập live rendering? 
 
 
 Nguyễn Công Phượng không có tên trong danh sách đăng ký trận Sint-Truidense đối đầu Kortrijk hôm 6/10, tức là ngay trước khi anh về Việt Nam để đá Vòng loại World Cup 2022.
