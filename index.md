@@ -1,37 +1,81 @@
-## Welcome to GitHub Pages
+* [UIKit](#uikit)
+	* [UIView](#uiview)
 
-You can use the [editor on GitHub](https://github.com/thevien01/test-markdown/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Nguyễn Công Phượng không có tên trong danh sách đăng ký trận Sint-Truidense đối đầu Kortrijk hôm 6/10, tức là ngay trước khi anh về Việt Nam để đá Vòng loại World Cup 2022.
+Tối 4/10, trang chủ CLB Sint-Truidense đăng danh sách 19 cầu thủ sẽ góp mặt ở trận tiếp đón Kortrijk, thuộc vòng 10 Giải vô địch Quốc gia Bỉ 2019/20. HLV Marc Brys gạt Công Phượng khỏi đội hình, sau khi xếp anh ngồi dự bị ở trận gặp Oud-Heverlee Leuven trong khuôn khổ vòng 1/16 Croky Cup.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Công Phượng sẽ vắng mặt trận thứ 4 liên tiếp tại giải VĐQG Bỉ. Lần gần nhất tuyển thủ Việt Nam được đăng ký vào ngày 25/9, khi Sint-Truidense tiếp đón Zulte Waregem, nhưng anh không được HLV Brys tung vào sân.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+# UIKit
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Nguyễn Công Phượng không có tên trong danh sách đăng ký trận Sint-Truidense đối đầu Kortrijk hôm 6/10, tức là ngay trước khi anh về Việt Nam để đá Vòng loại World Cup 2022.
+Tối 4/10, trang chủ CLB Sint-Truidense đăng danh sách 19 cầu thủ sẽ góp mặt ở trận tiếp đón Kortrijk, thuộc vòng 10 Giải vô địch Quốc gia Bỉ 2019/20. HLV Marc Brys gạt Công Phượng khỏi đội hình, sau khi xếp anh ngồi dự bị ở trận gặp Oud-Heverlee Leuven trong khuôn khổ vòng 1/16 Croky Cup.
 
-[Link](url) and ![Image](src)
-```
+Công Phượng sẽ vắng mặt trận thứ 4 liên tiếp tại giải VĐQG Bỉ. Lần gần nhất tuyển thủ Việt Nam được đăng ký vào ngày 25/9, khi Sint-Truidense tiếp đón Zulte Waregem, nhưng anh không được HLV Brys tung vào sân.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Nguyễn Công Phượng không có tên trong danh sách đăng ký trận Sint-Truidense đối đầu Kortrijk hôm 6/10, tức là ngay trước khi anh về Việt Nam để đá Vòng loại World Cup 2022.
+Tối 4/10, trang chủ CLB Sint-Truidense đăng danh sách 19 cầu thủ sẽ góp mặt ở trận tiếp đón Kortrijk, thuộc vòng 10 Giải vô địch Quốc gia Bỉ 2019/20. HLV Marc Brys gạt Công Phượng khỏi đội hình, sau khi xếp anh ngồi dự bị ở trận gặp Oud-Heverlee Leuven trong khuôn khổ vòng 1/16 Croky Cup.
 
-### Jekyll Themes
+Công Phượng sẽ vắng mặt trận thứ 4 liên tiếp tại giải VĐQG Bỉ. Lần gần nhất tuyển thủ Việt Nam được đăng ký vào ngày 25/9, khi Sint-Truidense tiếp đón Zulte Waregem, nhưng anh không được HLV Brys tung vào sân.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/thevien01/test-markdown/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Nguyễn Công Phượng không có tên trong danh sách đăng ký trận Sint-Truidense đối đầu Kortrijk hôm 6/10, tức là ngay trước khi anh về Việt Nam để đá Vòng loại World Cup 2022.
+Tối 4/10, trang chủ CLB Sint-Truidense đăng danh sách 19 cầu thủ sẽ góp mặt ở trận tiếp đón Kortrijk, thuộc vòng 10 Giải vô địch Quốc gia Bỉ 2019/20. HLV Marc Brys gạt Công Phượng khỏi đội hình, sau khi xếp anh ngồi dự bị ở trận gặp Oud-Heverlee Leuven trong khuôn khổ vòng 1/16 Croky Cup.
 
-### Support or Contact
+Công Phượng sẽ vắng mặt trận thứ 4 liên tiếp tại giải VĐQG Bỉ. Lần gần nhất tuyển thủ Việt Nam được đăng ký vào ngày 25/9, khi Sint-Truidense tiếp đón Zulte Waregem, nhưng anh không được HLV Brys tung vào sân.
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# UIView
+
+
+
+
+Nguyễn Công Phượng không có tên trong danh sách đăng ký trận Sint-Truidense đối đầu Kortrijk hôm 6/10, tức là ngay trước khi anh về Việt Nam để đá Vòng loại World Cup 2022.
+Tối 4/10, trang chủ CLB Sint-Truidense đăng danh sách 19 cầu thủ sẽ góp mặt ở trận tiếp đón Kortrijk, thuộc vòng 10 Giải vô địch Quốc gia Bỉ 2019/20. HLV Marc Brys gạt Công Phượng khỏi đội hình, sau khi xếp anh ngồi dự bị ở trận gặp Oud-Heverlee Leuven trong khuôn khổ vòng 1/16 Croky Cup.
+
+Công Phượng sẽ vắng mặt trận thứ 4 liên tiếp tại giải VĐQG Bỉ. Lần gần nhất tuyển thủ Việt Nam được đăng ký vào ngày 25/9, khi Sint-Truidense tiếp đón Zulte Waregem, nhưng anh không được HLV Brys tung vào sân.
+
+Nguyễn Công Phượng không có tên trong danh sách đăng ký trận Sint-Truidense đối đầu Kortrijk hôm 6/10, tức là ngay trước khi anh về Việt Nam để đá Vòng loại World Cup 2022.
+Tối 4/10, trang chủ CLB Sint-Truidense đăng danh sách 19 cầu thủ sẽ góp mặt ở trận tiếp đón Kortrijk, thuộc vòng 10 Giải vô địch Quốc gia Bỉ 2019/20. HLV Marc Brys gạt Công Phượng khỏi đội hình, sau khi xếp anh ngồi dự bị ở trận gặp Oud-Heverlee Leuven trong khuôn khổ vòng 1/16 Croky Cup.
+
+Công Phượng sẽ vắng mặt trận thứ 4 liên tiếp tại giải VĐQG Bỉ. Lần gần nhất tuyển thủ Việt Nam được đăng ký vào ngày 25/9, khi Sint-Truidense tiếp đón Zulte Waregem, nhưng anh không được HLV Brys tung vào sân.
+
+Nguyễn Công Phượng không có tên trong danh sách đăng ký trận Sint-Truidense đối đầu Kortrijk hôm 6/10, tức là ngay trước khi anh về Việt Nam để đá Vòng loại World Cup 2022.
+Tối 4/10, trang chủ CLB Sint-Truidense đăng danh sách 19 cầu thủ sẽ góp mặt ở trận tiếp đón Kortrijk, thuộc vòng 10 Giải vô địch Quốc gia Bỉ 2019/20. HLV Marc Brys gạt Công Phượng khỏi đội hình, sau khi xếp anh ngồi dự bị ở trận gặp Oud-Heverlee Leuven trong khuôn khổ vòng 1/16 Croky Cup.
+
+Công Phượng sẽ vắng mặt trận thứ 4 liên tiếp tại giải VĐQG Bỉ. Lần gần nhất tuyển thủ Việt Nam được đăng ký vào ngày 25/9, khi Sint-Truidense tiếp đón Zulte Waregem, nhưng anh không được HLV Brys tung vào sân.
+
+
+Nguyễn Công Phượng không có tên trong danh sách đăng ký trận Sint-Truidense đối đầu Kortrijk hôm 6/10, tức là ngay trước khi anh về Việt Nam để đá Vòng loại World Cup 2022.
+Tối 4/10, trang chủ CLB Sint-Truidense đăng danh sách 19 cầu thủ sẽ góp mặt ở trận tiếp đón Kortrijk, thuộc vòng 10 Giải vô địch Quốc gia Bỉ 2019/20. HLV Marc Brys gạt Công Phượng khỏi đội hình, sau khi xếp anh ngồi dự bị ở trận gặp Oud-Heverlee Leuven trong khuôn khổ vòng 1/16 Croky Cup.
+
+Công Phượng sẽ vắng mặt trận thứ 4 liên tiếp tại giải VĐQG Bỉ. Lần gần nhất tuyển thủ Việt Nam được đăng ký vào ngày 25/9, khi Sint-Truidense tiếp đón Zulte Waregem, nhưng anh không được HLV Brys tung vào sân.
+
+Nguyễn Công Phượng không có tên trong danh sách đăng ký trận Sint-Truidense đối đầu Kortrijk hôm 6/10, tức là ngay trước khi anh về Việt Nam để đá Vòng loại World Cup 2022.
+Tối 4/10, trang chủ CLB Sint-Truidense đăng danh sách 19 cầu thủ sẽ góp mặt ở trận tiếp đón Kortrijk, thuộc vòng 10 Giải vô địch Quốc gia Bỉ 2019/20. HLV Marc Brys gạt Công Phượng khỏi đội hình, sau khi xếp anh ngồi dự bị ở trận gặp Oud-Heverlee Leuven trong khuôn khổ vòng 1/16 Croky Cup.
+
+Công Phượng sẽ vắng mặt trận thứ 4 liên tiếp tại giải VĐQG Bỉ. Lần gần nhất tuyển thủ Việt Nam được đăng ký vào ngày 25/9, khi Sint-Truidense tiếp đón Zulte Waregem, nhưng anh không được HLV Brys tung vào sân.
+
+Nguyễn Công Phượng không có tên trong danh sách đăng ký trận Sint-Truidense đối đầu Kortrijk hôm 6/10, tức là ngay trước khi anh về Việt Nam để đá Vòng loại World Cup 2022.
+Tối 4/10, trang chủ CLB Sint-Truidense đăng danh sách 19 cầu thủ sẽ góp mặt ở trận tiếp đón Kortrijk, thuộc vòng 10 Giải vô địch Quốc gia Bỉ 2019/20. HLV Marc Brys gạt Công Phượng khỏi đội hình, sau khi xếp anh ngồi dự bị ở trận gặp Oud-Heverlee Leuven trong khuôn khổ vòng 1/16 Croky Cup.
+
+Công Phượng sẽ vắng mặt trận thứ 4 liên tiếp tại giải VĐQG Bỉ. Lần gần nhất tuyển thủ Việt Nam được đăng ký vào ngày 25/9, khi Sint-Truidense tiếp đón Zulte Waregem, nhưng anh không được HLV Brys tung vào sân.
+
+
+Nguyễn Công Phượng không có tên trong danh sách đăng ký trận Sint-Truidense đối đầu Kortrijk hôm 6/10, tức là ngay trước khi anh về Việt Nam để đá Vòng loại World Cup 2022.
+Tối 4/10, trang chủ CLB Sint-Truidense đăng danh sách 19 cầu thủ sẽ góp mặt ở trận tiếp đón Kortrijk, thuộc vòng 10 Giải vô địch Quốc gia Bỉ 2019/20. HLV Marc Brys gạt Công Phượng khỏi đội hình, sau khi xếp anh ngồi dự bị ở trận gặp Oud-Heverlee Leuven trong khuôn khổ vòng 1/16 Croky Cup.
+
+Công Phượng sẽ vắng mặt trận thứ 4 liên tiếp tại giải VĐQG Bỉ. Lần gần nhất tuyển thủ Việt Nam được đăng ký vào ngày 25/9, khi Sint-Truidense tiếp đón Zulte Waregem, nhưng anh không được HLV Brys tung vào sân.
+
+Nguyễn Công Phượng không có tên trong danh sách đăng ký trận Sint-Truidense đối đầu Kortrijk hôm 6/10, tức là ngay trước khi anh về Việt Nam để đá Vòng loại World Cup 2022.
+Tối 4/10, trang chủ CLB Sint-Truidense đăng danh sách 19 cầu thủ sẽ góp mặt ở trận tiếp đón Kortrijk, thuộc vòng 10 Giải vô địch Quốc gia Bỉ 2019/20. HLV Marc Brys gạt Công Phượng khỏi đội hình, sau khi xếp anh ngồi dự bị ở trận gặp Oud-Heverlee Leuven trong khuôn khổ vòng 1/16 Croky Cup.
+
+Công Phượng sẽ vắng mặt trận thứ 4 liên tiếp tại giải VĐQG Bỉ. Lần gần nhất tuyển thủ Việt Nam được đăng ký vào ngày 25/9, khi Sint-Truidense tiếp đón Zulte Waregem, nhưng anh không được HLV Brys tung vào sân.
+
+Nguyễn Công Phượng không có tên trong danh sách đăng ký trận Sint-Truidense đối đầu Kortrijk hôm 6/10, tức là ngay trước khi anh về Việt Nam để đá Vòng loại World Cup 2022.
+Tối 4/10, trang chủ CLB Sint-Truidense đăng danh sách 19 cầu thủ sẽ góp mặt ở trận tiếp đón Kortrijk, thuộc vòng 10 Giải vô địch Quốc gia Bỉ 2019/20. HLV Marc Brys gạt Công Phượng khỏi đội hình, sau khi xếp anh ngồi dự bị ở trận gặp Oud-Heverlee Leuven trong khuôn khổ vòng 1/16 Croky Cup.
+
+Công Phượng sẽ vắng mặt trận thứ 4 liên tiếp tại giải VĐQG Bỉ. Lần gần nhất tuyển thủ Việt Nam được đăng ký vào ngày 25/9, khi Sint-Truidense tiếp đón Zulte Waregem, nhưng anh không được HLV Brys tung vào sân.
